@@ -1,0 +1,9 @@
+title: "Macキーボードショートカット集"
+summary: "Macを使ったショートカットコマンドをまとめたものです。"
+topics: ["Mac", "ショートカット"] # トピック（5つまで）
+published: false # falseだと下書き
+price: 0 # 有料の場合200〜5000
+chapters:
+  - Finderからファイルを完全削除する # チャプター1
+  #- example2 # チャプター2
+  #- example3 # チャプター3
