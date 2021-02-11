@@ -1,9 +1,8 @@
 title: "Macキーボードショートカット集"
 summary: "Macを使ったショートカットコマンドをまとめたものです。"
 topics: ["Mac", "ショートカット"] # トピック（5つまで）
-published: false # falseだと下書き
+published: true # falseだと下書き
 price: 0 # 有料の場合200〜5000
 chapters:
-  - file-delete # チャプター1
-  #- example2 # チャプター2
-  #- example3 # チャプター3
+  - introduction #はじめに
+  - file-delete # ファイルのゴミ箱を経由せずに削除する方法
