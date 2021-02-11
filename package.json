@@ -1,0 +1,23 @@
+{
+  "name": "zenn-content",
+  "version": "1.0.0",
+  "description": "zennの執筆記事を保存するためのリポジトリです。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mo-ri-regen/zenn-content.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mo-ri-regen/zenn-content/issues"
+  },
+  "homepage": "https://github.com/mo-ri-regen/zenn-content#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.72"
+  }
+}
