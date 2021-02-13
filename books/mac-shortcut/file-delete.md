@@ -2,11 +2,11 @@
 title: "Finderからファイルを完全削除する"
 ---
 
-### コマンド
+# コマンド
 
 command + option + delete
 
-### 操作方法
+# 操作方法
 
 Finder 上で削除したいファイルに対して、
 command + option + delete を押すと下記画面が表示される。
