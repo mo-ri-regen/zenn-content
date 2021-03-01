@@ -26,7 +26,7 @@ root ユーザはすべてのリソースにアクセスでき、
 
 1. AWS マネージメントコンソールにログイン後、検索窓で「iam」と検索する。
 
-![IAM検索](https://gyazo.com/5abdf88e5c41edc634e6a8c6c44ac683.png)
+   ![IAM検索](https://gyazo.com/5abdf88e5c41edc634e6a8c6c44ac683.png)
 
 2. 「ユーザ」をクリック
    ![ユーザをクリック](https://gyazo.com/909240e16de1df08d81f91c8f6dc6cf6.png)
@@ -42,7 +42,7 @@ root ユーザはすべてのリソースにアクセスでき、
 5. 「既存のポリシーを直接アタッチ」を選択し、「AdministratorAccess」を選択する。同じ権限を持つ場合は「アクセス権限を既存のユーザからコピー」を入力する。
    ![アクセス許可の設定](https://gyazo.com/4f8cf0a62b903806466543dffa8bbafe.png)
 
-6. タグの追加
+6. タグを追加できるが、今回は追加しない。
    ![タグの追加](https://gyazo.com/05f377f9d26b373db232d17f987d1481.png)
 
 7. 内容を確認し OK ならユーザの作成をクリックする
