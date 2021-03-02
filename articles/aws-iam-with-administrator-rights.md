@@ -10,7 +10,8 @@ published: false
 
 - IAM ユーザとは何かについて理解すること
 - 実際に IAM ユーザ作成までの手順について記すこと。  
-  ※AWS マネジメントコンソールの画面はアップデートにより UI が変更される可能性があるのでご了承ください。
+   ※AWS マネジメントコンソールの画面はアップデートにより UI が変更される可能性があるのでご了承ください。
+  今回は IAM ユーザの作成まで行います。MFA の設定も次回、記事にする予定です。
 
 ## IAM とは
 
@@ -71,3 +72,5 @@ root ユーザはすべてのリソースにアクセスでき、
 ## 参考 URL
 
 - [IAM 公式ドキュメント](https://docs.aws.amazon.com/ja_jp/IAM/latest/UserGuide/introduction.html)
+
+- [AWS ベストプラクティス](https://docs.aws.amazon.com/ja_jp/IAM/latest/UserGuide/id_root-user.html)
