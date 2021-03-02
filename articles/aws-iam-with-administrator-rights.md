@@ -3,7 +3,7 @@ title: "管理者権限をもつIAMユーザを作成してみた"
 emoji: "🤴🏼"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [AWS, iam]
-published: false
+published: true
 ---
 
 ## この記事の目的
