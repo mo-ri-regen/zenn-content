@@ -8,8 +8,7 @@ published: true
 
 ## この記事の目的
 
-[前回](https://zenn.dev/mo_ri_regen/articles/aws-iam-with-administrator-rights)作成した IAM ユーザの
-セキュリティを高めるために MFA の設定をする。
+[前回](https://zenn.dev/mo_ri_regen/articles/aws-iam-with-administrator-rights)作成した IAM ユーザのセキュリティを高めるために MFA の設定をする。
 
 ## MFA とは
 
@@ -21,16 +20,16 @@ DB に登録したパスワード+ワンタイムパスワードなど複数の�
 
 1. Chrome の拡張機能である[Authenticator](https://chrome.google.com/webstore/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai?hl=ja)を追加する。
 
-2. AWS マネジメントコンソール画面に行き、IAM で追加したユーザを選択する  
+2. AWS マネジメントコンソール画面に行き、IAM で追加したユーザを選択する。  
    ![ユーザ選択](https://gyazo.com/a3ee033758d0a4032c63f3e217dbc5d5.png)
 
-3. 「認証情報」タブの「MFA デバイスの割当」の「管理」をクリック
+3. 「認証情報」タブの「MFA デバイスの割当」の「管理」をクリック。
    ![MFA デバイスの割当](https://gyazo.com/51d84f8a3f6f2d98d8f34d55578910a7.png)
 
 4. 「仮想 MFA デバイス」のラジオボタンにチェックが入っていることを確認する。
    ![仮想MFAデバイスの選択](https://gyazo.com/663f4e9629536a27846631a813ad0c2a.png)
 
-5. QR コードの表示のところをクリックする  
+5. QR コードの表示のところをクリックする。  
    ![QRコード表示](https://gyazo.com/f841f06ded2be43163573c675b641a79.png)
 6. 右上の鉛筆マークをクリックして、「+」をクリックする。  
    ![鉛筆マークをクリック](https://gyazo.com/55233ac756fd2b186f307315a5c90560.png)
