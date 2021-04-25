@@ -85,7 +85,7 @@ OSS の開発では GitHub が主流となっており、ホスティングサ�
 MIT ライセンス。Gitlab 社が運営。ロゴはキツネではなく、[たぬき](https://www.publickey1.jp/blog/20/gitlab.html)のようです。
 非公式だが、日本語の[コミュニティサイト](https://www.gitlab.jp)もある。
 GitHub が MS にされたときに GitLab へ移行したユーザもいる模様。
-GitHub を除外して[Google トレンドで比較](https://trends.google.com/trends/explore?date=today%205-y&q=bitbucket,gitlab)すると 2021 年 4 月時点では GitLab のほうが BitBucnket の 2 倍近ググられている。
+GitHub を除外して[Google トレンドで比較](https://trends.google.com/trends/explore?date=today%205-y&q=bitbucket,gitlab)すると 2021 年 4 月時点では GitLab のほうが BitBucket の 2 倍近くググられている。
 [料金](https://www.gitlab.jp/pricing/)はリンク先参照。
 
 ### [BitBucket](https://bitbucket.org/)
