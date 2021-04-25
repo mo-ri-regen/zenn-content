@@ -111,11 +111,19 @@ main ブランチだと読み替えてもらえばと思います。
 
 ## 参考
 
-- Udemy  
-  [Git： もう怖くない Git！チーム開発で必要な Git を完全マスター ](https://www.udemy.com/course/unscared_git/)
+### Udemy
 
-- 書籍  
-  [独習 Git](https://www.seshop.com/product/detail/18861)
+- [Git：もう怖くない Git！チーム開発で必要な Git を完全マスター ](https://www.udemy.com/course/unscared_git/)([山浦 清透](https://twitter.com/kiyotoyamaura))
+- [米国 AI 開発者がやさしく教える Git 入門講座](https://www.udemy.com/course/aigitgithub/)
+  ([かめ れおん](https://twitter.com/usdatascientist))
+
+### 書籍
+
+リック・ウマリ(2016)『[独習 Git](https://www.seshop.com/product/detail/18861)』
+,吉川邦夫（訳）,翔泳社
+
+### URL
 
 - [main ブランチについて(公式)](https://github.com/github/renaming)
 - [main ブランチについての記事(日本語版)](https://www.infoq.com/jp/news/2020/11/github-main-branch/)
+- [GitLab のロゴについて](https://www.publickey1.jp/blog/20/gitlab.html)
