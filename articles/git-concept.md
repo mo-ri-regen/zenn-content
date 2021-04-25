@@ -20,11 +20,11 @@ Git とは何か、何が便利なのかについて記載する。
 ## Git とは
 
 Linux を開発した Linus Torvalds(リーナス・トーバルズ)が開発。  
-分散型のバージョン管理システムでスナップショットで記録している。誰が、いつ、なんの変更を行ったか追いかけることが可能。
-分散型にすることで、複数人で開発するときに他の人の変更を気にすることなく
-開発ができ、スナップショットで記録することでブランチ操作やマージ操作がそれぞれしやすくなる。
-(以前は [svn](https://subversion.apache.org/) など集中型のバージョン管理システムが
-使われていた。)
+分散型のバージョン管理システムでスナップショットで記録している。
+誰が、いつ、なんの変更を行ったか追いかけることが可能。
+分散型にすることで、複数人で開発するときに他の人の変更を気にすることなく開発ができ、
+スナップショットで記録することでブランチ操作やマージ操作がそれぞれしやすくなる。
+(以前は [svn](https://subversion.apache.org/) など集中型のバージョン管理システムが使われていた。)
 
 ## Git が使われなかった場合のバージョン管理方法
 
@@ -48,15 +48,13 @@ Git はコミットと呼ばれる最新の記録からたどっていくこと�
 後述のホスティングサービスを使うことで複数人での開発がやりやすくなった。
 Git コマンドを覚えないといけないが、SourceTree や VSCode など GUI 上で操作できるツールも増えてきた。
 
-## フローチャート
+## Git の作業手順
 
-ローカルでファイルを変更し、コミット(スナップショットを記録)する。
-コミットしたら GitHub などのホスティングサービスへ push する。
-ワークツリー、ステージ、リポジトリの 3 つのエリアに別れていて、
-ユーザがワークツリー(ローカルで作業した内容)をステージ(コミットする変更を準備する場所)へ add(追加)し、add したあとローカルリポジトリへコミットする。
+ワークツリー、ステージ、リポジトリの 3 つのエリアがそれぞれある。
+ユーザがワークツリー(ローカルで作業した内容)をステージ(コミットする変更を準備する場所)へ add(追加)し、add したあとローカルリポジトリへコミット(スナップショットを記録)する。
 コミットしたらローカルリポジトリからリモートリポジトリ(GitHub などのホスティングサービス)にプッシュする。
 
-![gitの作業図](./drawio/git-concept.svg)
+![gitの作業図](https://storage.googleapis.com/zenn-user-upload/bxukitxw6mvqfb78ro36hytxhzov)
 
 ## Git のホスティングサービス
 
@@ -74,7 +72,6 @@ Web 上でソースコードを管理するサービス。
 GitHub 社が運営していたが[Microsoft(MS) に買収された](https://news.microsoft.com/announcement/microsoft-acquires-github/)。  
 プライベートリポジトリは以前は有料だったが、無料になるなどユーザにとって使いやすくなってきている。
 OSS の開発では GitHub が主流となっており、ホスティングサービスとしてはデファクトスタンダードとなっている。[Google トレンド](https://trends.google.com/trends/explore?date=today%205-y&q=bitbucket,gitlab,%2Fm%2F0ryppmg)を見ても GitHub でググっている人は圧倒的に多い。
-
 [料金](https://github.com/pricing)はリンク先参照。
 
 ### [GitLab](https://about.gitlab.com/)
@@ -111,13 +108,11 @@ main ブランチだと読み替えてもらえばと思います。
 ### Udemy
 
 - [Git：もう怖くない Git！チーム開発で必要な Git を完全マスター ](https://www.udemy.com/course/unscared_git/)([山浦 清透](https://twitter.com/kiyotoyamaura))
-- [米国 AI 開発者がやさしく教える Git 入門講座](https://www.udemy.com/course/aigitgithub/)
-  ([かめ れおん](https://twitter.com/usdatascientist))
+- [米国 AI 開発者がやさしく教える Git 入門講座](https://www.udemy.com/course/aigitgithub/)([かめ れおん](https://twitter.com/usdatascientist))
 
 ### 書籍
 
-リック・ウマリ(2016)『[独習 Git](https://www.seshop.com/product/detail/18861)』
-,吉川邦夫（訳）,翔泳社
+リック・ウマリ(2016)『[独習 Git](https://www.seshop.com/product/detail/18861)』,吉川邦夫（訳）,翔泳社
 
 ### URL
 
