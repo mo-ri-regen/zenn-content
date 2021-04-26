@@ -17,6 +17,8 @@ published: true
 逆に、オンラインイベントを主流にしてくれた部分もあるのでよかったなと思います。
 もしこのイベントがオフライン開催だと女子だらけだったときを考えると、多分、参加しなかっただろうなと思います。
 
+https://twitter.com/mo_ri_regen/status/1386201686486622208
+
 ## 内容
 
 [Lookout for Vision](https://aws.amazon.com/jp/lookout-for-vision/)をハンズオン形式で学ぶというものでした。
