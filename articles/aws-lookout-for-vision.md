@@ -1,5 +1,5 @@
 ---
-title: "AWS関西女子会主催 LookupforVisionのハンズオンを体験してみた"
+title: "AWS関西女子会主催 LookoutforVisionのハンズオンを体験してみた"
 emoji: "✍️"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: [AWS, LookoutForVision, jawsug, jawsugkgirls, AWSUserGroups]
