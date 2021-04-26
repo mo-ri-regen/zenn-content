@@ -3,7 +3,7 @@ title: "AWS関西女子会主催 LookupforVisionのハンズオンを体験し�
 emoji: "✍️"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: [AWS, LookoutForVision, jawsug, jawsugkgirls, AWSUserGroups]
-published: false
+published: true
 ---
 
 ## 概要
