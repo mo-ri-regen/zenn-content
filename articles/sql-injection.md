@@ -55,10 +55,11 @@ conn.prepareStetement("SELECT * FROM USED WHERE USER_NAME=? PASSWORD = ?")
 プリペアード・ステートメントは条件の追加など構造の変化を後から行えないため、
 SQLインジェクションの防止となります。
 
-- エスケープ処理を行う
+(追記:サニタイジングはXSS対策だったので訂正)
+~~- エスケープ処理を行う~~
 
-「'」といった特殊な文字を普通の文字と認識するように設定します(**サニタイジング**と呼ぶ)
-phpではhtmlspecialchars()という関数があるので、積極的に利用しましょう。
+~~「'」といった特殊な文字を普通の文字と認識するように設定します(**サニタイジング**と呼ぶ)~~
+~~phpではhtmlspecialchars()という関数があるので、積極的に利用しましょう。~~
 ```php
 
 echo htmlspecialchars("'", ENT_QUOTES, 'UTF-8');
