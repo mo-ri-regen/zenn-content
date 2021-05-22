@@ -29,7 +29,7 @@ pythonで三項演算子の書き方を調べてみたらjsと全然書き方違
 
 - python
 
-```python3:test.py
+```python:test.py
 a,b=3,5
 
 result = 2*a if a>b else 2*b
