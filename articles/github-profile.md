@@ -3,7 +3,7 @@ title: "GitHubのプロフィールを設定してみよう!"
 emoji: "😸"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [GitHub, プロフィール]
-published: false
+published: true
 ---
 
 何もないGitHubのプロフィール画像ですが。。。
