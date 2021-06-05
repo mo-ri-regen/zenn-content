@@ -1,5 +1,5 @@
 ---
-title: "GitHubのプロフィール編集"
+title: "GitHubのプロフィールを設定してみよう!"
 emoji: "😸"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [GitHub, プロフィール]
