@@ -92,5 +92,3 @@ IAMによる権限設定は、悪意がある人が行うと大変なことに�
 [IAMポリシー](https://docs.aws.amazon.com/ja_jp/IAM/latest/UserGuide/access_policies.html)
 
 [IAMポリシー(クラスメソッド)](https://dev.classmethod.jp/articles/aws-iam-policy/)
-
-
