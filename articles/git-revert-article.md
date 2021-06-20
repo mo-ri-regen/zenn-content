@@ -3,7 +3,7 @@ title: "間違えてコミットしたときはgit revertで打ち消し!"
 emoji: "✏️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [Git]
-published: false
+published: true
 ---
 
 間違えてcommitしたときに打ち消しのコミットを打つことができる😊
