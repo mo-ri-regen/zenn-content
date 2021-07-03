@@ -116,8 +116,6 @@ writablePerson.age++;
 console.log(readonlyPerson.age); // prints '43'
 ```
 
-:::
-
 ## 動作環境
 
 下記環境で動くか確かめました。
