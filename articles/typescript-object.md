@@ -127,4 +127,4 @@ console.log(readonlyPerson.age); // prints '43'
 [公式](https://www.typescriptlang.org/docs/handbook/2/objects.html)
 [typeとinterfaceの違い](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#differences-between-type-aliases-and-interfaces)
 [TypeScript で type と interface どっち使うのか問題](https://zenn.dev/seya/articles/aa94166c977280)
-[stackoverflow](https://stackoverflow.com/questions/37233735/typescript-interfaces-vs-types)
+[stackoverflowでの議論](https://stackoverflow.com/questions/37233735/typescript-interfaces-vs-types)
