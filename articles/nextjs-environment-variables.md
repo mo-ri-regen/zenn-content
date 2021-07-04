@@ -1,6 +1,6 @@
 ---
 title: "Next.jsの環境変数取得方法"
-emoji: "🐷"
+emoji: "🌏"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [nextjs]
 published: false
