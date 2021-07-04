@@ -3,7 +3,7 @@ title: "Next.jsの環境変数取得方法"
 emoji: "🌏"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [nextjs]
-published: false
+published: true
 ---
 
 Nextjsでは、たとえばデータベースに接続するときに使う環境変数を設定することができます。
