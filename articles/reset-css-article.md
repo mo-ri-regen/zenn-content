@@ -3,7 +3,7 @@ title: "リセットcssによるブラウザ特有のCSSの打ち消し"
 emoji: "☝️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [css]
-published: false
+published: true
 ---
 
 ## リセットCSSとは
