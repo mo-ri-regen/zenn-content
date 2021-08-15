@@ -26,7 +26,7 @@ SSGの挙動をするにはリリース環境で動作させる必要があり�
 ```tsx
 import { GetStaticProps } from 'next'
 
-export const getStaticProps: GetStaticProps = async() {
+export const getStaticProps: GetStaticProps = async() => {
 // export async function getStaticProps() でも同じ
   const res = await fetch(`https://.../data`)
   const posts = await res.json()
@@ -59,7 +59,7 @@ function Blog({ posts }) {
   )
 }
 
-export const getStaticProps: GetStaticProps = async() {
+export const getStaticProps: GetStaticProps = async() => {
     // 最初の例と同じなので省略
 
     return {
