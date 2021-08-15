@@ -82,6 +82,11 @@ https://twitter.com/mo_ri_regen/status/1418890669028872192
 間違えてクリックした人がいきなりアニメーションが始まるせいで、タブを閉じるよう人もいるようなので、そもそもゲームが始まることを知らない人がいるのがもったいないですね。
 (上司がゲームのこと知りませんでした。)
 
+【追記】
+無事、巻物全部取ることができました🎉
+https://twitter.com/mo_ri_regen/status/1424277323948257283
+
+
 ## 参考
 
 https://news.infoseek.co.jp/article/itmedia_nlab_20210723039/
