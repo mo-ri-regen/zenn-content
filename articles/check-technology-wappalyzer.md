@@ -3,7 +3,7 @@ title: "wappalyzerを使った使用技術の確認方法"
 emoji: "👀"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [wapplalyzer, 拡張機能]
-published: false
+published: true
 ---
 
 ## 対応ブラウザ
