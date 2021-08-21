@@ -1,8 +1,8 @@
 ---
-title: "AWS Well-Aechitected Frameworkを学ぶ"
+title: "AWS Well-Arhitected Frameworkを学ぶ"
 emoji: "📑"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: [AWS, WellAechitectedFramework]
+topics: [AWS, WellArchitectedFramework]
 published: true
 ---
 
