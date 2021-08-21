@@ -13,8 +13,8 @@ AWS についてクラウド上でワークロード[^1]を設計および実行
 AWS のソリューションアーキテクトとユーザの実際の経験から作成されました。
 
 [^1]:
-    [作業負荷、業務量と訳します。
-    [AWS](https://docs.aws.amazon.com/ja_jp/wellarchitected/latest/userguide/workloads.html)ではリソースと、ビジネス価値をもたらすコード (顧客向けアプリケーションやバックエンドプロセスなど) の集まりと定義されています。]
+    作業負荷、業務量と訳します。
+    [AWS](https://docs.aws.amazon.com/ja_jp/wellarchitected/latest/userguide/workloads.html)ではリソースと、ビジネス価値をもたらすコード (顧客向けアプリケーションやバックエンドプロセスなど) の集まりと定義されています。
 
 :::message
 ベストプラクティスは理解する必要はありますが、**すべてを守る必要はありません**。
