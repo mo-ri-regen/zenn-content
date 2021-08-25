@@ -8,6 +8,8 @@ published: true
 
 TypeScript で書かれている場合、一度 JS に変換(トランスパイル)してから 実行する必要があります。
 
+## 実行方法
+
 1. TypeScript のインストール
 
    ```bash
