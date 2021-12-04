@@ -2,7 +2,7 @@
 title: "「行動や判断の手がかりはデザインが可能なのか？」を見た感想"
 emoji: "👩‍🎨"
 type: "idea" # tech: 技術記事 / idea: アイデア
-topics: [デザイン, コグニティブデザイン]
+topics: [design, コグニティブデザイン]
 published: true
 ---
 
