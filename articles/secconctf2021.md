@@ -3,7 +3,7 @@ title: "SECCON CTF 2021に参加した"
 emoji: "🏟"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: [seccon, CTF, セキュリティ]
-published: false
+published: true
 ---
 
 友達に誘われたことがきっかけで、セキュリティコンテストの SECCON2021 に 2021/12/11 14:00~2021/12/12 14:00 まで 私を含めて 3 人のグループで参加しました。
