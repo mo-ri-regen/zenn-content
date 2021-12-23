@@ -2,9 +2,13 @@
 title: "EC2の料金タイプについて"
 emoji: "💸"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: [AWS, ec2]
-published: false
+topics: [AWS, ec2, アドベントカレンダー]
+published: true
 ---
+
+この記事は[AWS CloudTech カレンダー](https://qiita.com/advent-calendar/2021/awscloudtech)の 24 日目です。
+
+EC2 の料金タイプについて書いてみました。
 
 ## オンデマンドインスタンス
 
