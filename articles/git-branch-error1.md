@@ -1,5 +1,5 @@
 ---
-title: "error: refname refs/heads/new_branch not found"
+title: "Gitでデフォルトブランチ名を変えるときにエラーが出た"
 emoji: "😫"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [Git]
