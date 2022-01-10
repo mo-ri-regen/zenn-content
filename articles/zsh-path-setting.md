@@ -2,7 +2,7 @@
 title: "MacでPATHを通すときにVimが使えなくなったときの解決策"
 emoji: "🔧"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: [terminal, mac]
+topics: [terminal, zsh, mac]
 published: true
 ---
 
