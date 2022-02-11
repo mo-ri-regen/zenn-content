@@ -63,7 +63,7 @@ className = "absolute inset-x-0 bottom-0";
 import type { NextPage } from "next";
 import Link from "next/link";
 import "remixicon/fonts/remixicon.css";
-const Footer: NextPage = () => {
+export const Footer = () => {
   return (
     // 最下部に固定で配置
     <div className="absolute inset-x-0 bottom-0 h-8 bg-green-200">
@@ -71,13 +71,13 @@ const Footer: NextPage = () => {
       <footer className="flex justify-center gap-x-4">
         <Link href="https://twitter.com/{TwitterName}">
           <a>
-          {/* アイコンをセットする */}
+            {/* アイコンをセットする */}
             <i className="ri-twitter-fill"></i>
           </a>
         </Link>
         <Link href="https://github.com/{GitHubName}">
           <a>
-          {/* アイコンをセットする */}
+            {/* アイコンをセットする */}
             <i className="ri-github-fill"></i>
           </a>
         </Link>
@@ -86,7 +86,6 @@ const Footer: NextPage = () => {
   );
 };
 
-export default Footer;
 ```
 
 #### 呼び出し側
@@ -94,7 +93,7 @@ export default Footer;
 ```tsx:src/pages/index.tsx
 import type { NextPage } from "next";
 import Head from "next/head";
-import Footer from "../component/layout/container/footer";
+import { Footer } from "../component/layout/container/footer";
 
 const Home: NextPage = () => {
   return (
@@ -104,7 +103,7 @@ const Home: NextPage = () => {
         <meta name="description" content="title" />
       </Head>
       {/* コンポーネントを呼び出し */}
-      <Footer></Footer>
+      <Footer />
     </div>
   );
 };
