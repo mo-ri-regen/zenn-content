@@ -1,0 +1,8 @@
+title: "これまで失敗してきたこと"
+summary: "エンジニアとして働いてきたなかで失敗したことを書いた本です"
+topics: [失敗談]
+published: true
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - 2.delete-data
