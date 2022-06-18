@@ -19,6 +19,6 @@
   "homepage": "https://github.com/mo-ri-regen/zenn-content#readme",
   "dependencies": {
     "@types/markdown-it": "^12.2.1",
-    "zenn-cli": "^0.1.110"
+    "zenn-cli": "^0.1.112"
   }
 }
