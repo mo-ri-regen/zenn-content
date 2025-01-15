@@ -20,12 +20,16 @@ AWS など一部のサービスでは日本語のままだとなにをしてい�
 
 - 日本語訳
 
-![日本語訳が理解不能な例(日本語画像)](/images/aws-english-recommend/authorizers_japanese.png)
+<!-- ![日本語訳が理解不能な例(日本語画像)](/images/aws-english-recommend/authorizers_japanese.png) -->
+
+![日本語訳が理解不能な例(日本語画像)](https://storage.googleapis.com/zenn-user-upload/f0d5dac37f72-20250116.png)
 _「オーソライザー」の意味がわかりづらい_
 
 - 英語訳
 
-![日本語訳が理解不能な例(英語画像)](/images/aws-english-recommend/authorizers_english.png)
+<!-- ![日本語訳が理解不能な例(英語画像)](/images/aws-english-recommend/authorizers_english.png) -->
+
+![日本語訳が理解不能な例(英語画像)](https://storage.googleapis.com/zenn-user-upload/0c30e4073402-20250116.png)
 _「Authorizers」なので権限の設定をしていると推測できる_
 
 2. 公式ドキュメントやエラー文が英語
@@ -44,7 +48,9 @@ AWS の話になりますがなにかリソースを消したい場合に
 AWS ではサービス名を英語で検索することがあることから半角入力状態のことが多いため
 英語設定のほうが全角に切り替える必要がないという観点で楽だと思いました。
 
-![日本語入力](/images/aws-english-recommend/confirm_japanese.png)
+<!-- ![日本語入力](/images/aws-english-recommend/confirm_japanese.png) -->
+
+![日本語入力](https://storage.googleapis.com/zenn-user-upload/efb975eddaa9-20250116.png)
 
 ## 最後に
 
